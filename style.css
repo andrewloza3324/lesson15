@@ -1,0 +1,21 @@
+@font-face{
+    font-family: 'machine';
+    src: url(./RemachineScript_Personal_Use.ttf);
+}
+ .h1{
+    font-family: 'machine';
+ }
+ @font-face{
+    font-family: 'plank';
+    src: url(./PLANK___.TTF);
+ }
+ .h2{
+    font-family: 'plank';
+ }
+ @font-face{
+    font-family: ace;
+    src: url(./Ace\ Records.ttf);
+ }
+ .h3{
+    font-family: ace;
+ }
